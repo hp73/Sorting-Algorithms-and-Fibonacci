@@ -1,5 +1,5 @@
 Project 2 - Sorting Algorithms and Fibonacci
-CSCI 102 Winter 2019
+CSCI 112 Winter 2019
 By Harry Pinkerton, Laurie Jones, and James Lawson
 Required to run: python 3.7
 
